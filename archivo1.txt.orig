@@ -1,21 +1,13 @@
-<<<<<<< HEAD
 Linea 1 de la Rama-A
 
 Linea 2 de la Rama-A
 
-Linea 3 de la Rama-A
+Linea 3 de la Rama-B
 
 Linea 4 de la Rama-A
 
+<<<<<<< HEAD
 Linea 5 de la Rama-A
 =======
-Linea 1 de la Rama-B
-
-Linea 2 de la Rama-B
-
-Linea 3 de la Rama-B
-
-Linea 4 de la Rama-B
-
-Linea 5 de la Rama-B
->>>>>>> 2eff597... Segungo commit rama B
+Linea 5 de la Rama-A
+>>>>>>> c62d5f3... prueba kdiff2
